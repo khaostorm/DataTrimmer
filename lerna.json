@@ -1,0 +1,10 @@
+{
+  "npmClient": "npm",
+  "useWorkspaces": true,
+  "packages": [
+    "server/",
+    "site/",
+    "common/"
+  ],
+  "version": "0.0.1"
+}
